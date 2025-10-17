@@ -17,3 +17,10 @@ I made the matrix for the keys and assigned them to pins on the controller. When
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8790e8b3edbe3df6f056d2f6b6b5aee0ab3d9038/image.png)
   
 
+## 10/17/2025 - Finished the Layout and Routed the PCB  
+
+The layout and routing of the PCB is done! I spent a while trying to make a layout I liked, making the Edge.Cuts layer for it, and then mirroring it all. After that it was pretty simple to route everything together and add silkscreen for the battery pads, power switch, and the name of the keyboard
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--7ea13fc024932f01d7f61dfb04cb1ca7af598c01/image.png)
+  
+
