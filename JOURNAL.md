@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **DuoMacro**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/234).
-
-
 ## 10/8/2025 - Finished the PCB Schematic and Assigned Footprints  
 
 I made the matrix for the keys and assigned them to pins on the controller. When I was making the matrix I had accidentally added an extra row so it had one more row than there were pins, I was trying to find out why for a while and eventually I went through every key and found the extra row and removed it. Otherwise it was mostly what is in the guide but with extra keys and a power switch
@@ -23,4 +19,12 @@ The layout and routing of the PCB is done! I spent a while trying to make a layo
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4NywicHVyIjoiYmxvYl9pZCJ9fQ==--7ea13fc024932f01d7f61dfb04cb1ca7af598c01/image.png)
   
+
+## 10/24/2025 - ZMK Firmware  
+
+The firmware should be done now, I had originally tried to use a separate tool to make everything but it was only for changing keymaps and not for making keyboards. The ZMK Docs were easy to understand but I kept getting errors because I did not define the keymap layer and went straight to the bindings. I hope it works now!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--37ac4b411a64ef624b2c50908463f08688a3bd56/image.png)
+
+Also, sorry if this is too much for one devlog, I didn't know how to section this.  
 
